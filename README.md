@@ -1,31 +1,36 @@
-# 🧭 Coding Adventures: Python & HTML5 for Beginners
+# 📅 Monthly Coding Plan Summary (Nov 8 – Dec 8)
 
-Welcome to your **Coding Adventures**!  
-In this journey, you’ll explore how to make computers *think* using **Python**,  
-and how to build amazing web pages using **HTML5** (and a bit of CSS).
-
----
-
-## 📅 Course Schedule
-
-**Duration:** 8 November – 8 December  
-**Sessions per week:** 2  
-**Total Sessions:** 8  
-
-| Week | Focus | Sessions |
-|------|--------|-----------|
-| Week 1 | Python Basics | Sessions 1–2 |
-| Week 2 | Python Projects | Sessions 3–4 |
-| Week 3 | HTML5 & CSS Intro | Sessions 5–6 |
-| Week 4 | Build a Mini Website | Sessions 7–8 |
+A 4-week beginner-friendly roadmap for learning **Python** and **HTML5** —  
+2 sessions per week, focused on building real coding and web skills through fun projects.
 
 ---
 
-## 🐍 Weeks 1–2: Learn Python Programming
+## 🗓️ Overview
 
-### **Session 1: Getting Started with Python**
-- What is programming?
-- Install Python or use [Replit](https://replit.com).
-- Your first program:  
-  ```python
-  print("Hello, world!")
+| Week | Focus | Key Topics | Mini Project |
+|------|--------|-------------|---------------|
+| **Week 1** | Python Basics | Printing, variables, data types, input/output | 🧩 *My Digital Introduction* |
+| **Week 2** | Python Logic & Projects | Conditionals, loops, functions, lists | 🎮 *Rock, Paper, Scissors Game* |
+| **Week 3** | HTML5 & CSS Basics | HTML structure, tags, text, links, styling with CSS | 🌐 *Personal Profile Page* |
+| **Week 4** | Building a Website | Multiple pages, linking, layouts, creativity | 💼 *My Web Portfolio* |
+
+---
+
+## 🎯 Learning Goals
+- Understand basic **Python programming** concepts.  
+- Learn **HTML5 structure** and **CSS styling**.  
+- Build real projects that combine logic and design.  
+- Gain confidence to explore coding independently.
+
+---
+
+## 🧰 Tools
+- **Python:** [Replit](https://replit.com), [Python.org](https://www.python.org)  
+- **HTML/CSS:** [CodePen](https://codepen.io), [W3Schools](https://www.w3schools.com)
+
+---
+
+## 💡 Tip
+> “Experiment, explore, and have fun — every line of code teaches you something new!”
+
+---
